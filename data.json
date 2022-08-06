@@ -15,8 +15,10 @@
       "id": 2,
       "name": "情已逝",
       "singer": "张学友",
-      "cover": "https://i.scdn.co/image/ab67616d0000b273aad3da78e76049f01936260a",
+      "cover": "https://pan.vinua.cn/api/v3/file/source/50444/%E6%83%85%E5%B7%B2%E9%80%9Dcover.jpg?sign=x6hEybnEvBn9xlvJJM9hUNnYArfFkZfIRWte5DbVRNU%3D%3A0",
       "time": "2022-08-04",
+      "audio": "https://pan.vinua.cn/api/v3/file/source/50445/%E6%83%85%E5%B7%B2%E9%80%9D%208-04-final.mp3?sign=e7UH2Ff8aFngVaV2I93em6VqGrCnFbkOACvxYJxcgig%3D%3A0",
+      "lyric": "https://pan.vinua.cn/api/v3/file/source/50443/GoodByeDay?sign=K-DJMBNf9_84yMlDNL1-PxM_lkzyBt2l7OLETyGgXUg%3D%3A0",
       "length": "28006"
     }
     
