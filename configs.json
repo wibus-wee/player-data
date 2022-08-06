@@ -1,5 +1,5 @@
 {
-  "avatar": "https://pan.vinua.cn/api/v3/file/source/50419/avatar.jpg?sign=GeRzd2Utv_NmwY5kMl6WI3mQ4X-EKoCDRwn60aRGgwA%3D%3A0",
+  "avatar": "https://pan.vinua.cn/api/v3/file/source/50420/avatar.jpg?sign=Ensq8Qq68bJ-EcO6SDvlHEPx4_7O4Ce7qguki_mRzsw%3D%3A0",
   "fastUrl": "https://raw.githubusercontent.com",
   "repo": {
       "name": "wibus-wee/player-data",
@@ -8,5 +8,5 @@
       "audio": "/:id/:id"
   },
   "json": "https://raw.githubusercontent.com/wibus-wee/player-data/main/data.json",
-  "footer": "./footer.jpeg"
+  "footer": "https://pan.vinua.cn/api/v3/file/source/50422/1zipped.jpg?sign=0FXTdTwSkSKW4j3QvVvy2vcr8VX4QPOwy8frHrFYscU%3D%3A0"
 }
