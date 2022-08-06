@@ -1,0 +1,12 @@
+{
+  "avatar": "https://pan.vinua.cn/api/v3/file/source/50419/avatar.jpg?sign=GeRzd2Utv_NmwY5kMl6WI3mQ4X-EKoCDRwn60aRGgwA%3D%3A0",
+  "fastUrl": "https://raw.githubusercontent.com",
+  "repo": {
+      "name": "wibus-wee/player-data",
+      "branch": "main",
+      "rule": ":fasturl/:name/:branch",
+      "audio": "/:id/:id"
+  },
+  "json": "https://raw.githubusercontent.com/wibus-wee/player-data/main/data.json",
+  "footer": "./footer.jpeg"
+}
