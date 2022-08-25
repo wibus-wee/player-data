@@ -30,6 +30,30 @@
       "lyric": "https://pan.vinua.cn/api/v3/file/source/54058/jie.lrc?sign=HrtcpHYCSP0K-wE4c6TuRfWmbYl-ZS1xFdkel74WhIg%3D%3A0",
       "time": "2022-08-12",
       "length": "24351"
+    },
+    {
+      "id": 4,
+      "name": "假如爱有天意",
+      "audio": "https://pan.vinua.cn/api/v3/file/source/62143/%E5%81%87%E5%A6%82%E7%88%B1%E6%9C%89%E5%A4%A9%E6%84%8F_2022_08_15_3.mp3?sign=c0batsMG0TGrhIHsQEKrEwEKZiuHVEV0kmtk_q1p5gU%3D%3A0",
+      "time": "2022-08-15",
+      "cover": "https://pan.vinua.cn/api/v3/file/source/62142/%E5%81%87%E5%A6%82%E7%88%B1%E6%9C%89%E5%A4%A9%E6%84%8F.jpg?sign=mEwu8f5MYCz8o4HLtEypF3kJ2CCSPnkPnlrwwm_o1Ho%3D%3A0",
+      "length": "30339"
+    },
+    {
+      "id": 5,
+      "name": "花期",
+      "audio": "https://pan.vinua.cn/api/v3/file/source/62145/%E8%8A%B1%E6%9C%9F_2022_08_16_2.mp3?sign=rC2kqi0qoBVvcWto7uwsoygkTgp0bgCFouazazU9388%3D%3A0",
+      "cover": "https://pan.vinua.cn/api/v3/file/source/62141/%E8%8A%B1%E6%9C%9F.jpg?sign=Kp-lr_f4k6vkDPppr4SB309DzWtuAofc47yEpe8F_Lw%3D%3A0",
+      "time": "2022-08-16",
+      "length": "28442"
+    },
+    {
+      "id": 6,
+      "name": "消愁",
+      "audio": "https://pan.vinua.cn/api/v3/file/source/62144/%E6%B6%88%E6%84%81_2022_08_20_2.mp3?sign=uKcIb1RRRL3-5sr1VCqjEJGYkwOUe4qADtR7uVssvSU%3D%3A0",
+      "time": "2022-08-20",
+      "cover": "https://pan.vinua.cn/api/v3/file/source/62140/%E6%B6%88%E6%84%81.jpg?sign=T9XCynMAgXTW5jIOp3-ha-qlUolqfXX4ND1ckpHTBgo%3D%3A0",
+      "length": "33006"
     }
     
   ]
